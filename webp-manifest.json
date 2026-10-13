@@ -1,0 +1,886 @@
+{
+  "sourceRepository": "https://github.com/Nimbly8836/wechat_rails",
+  "sourceCommit": "9eaac826504a3d4d67ead8c05b737a69ca64a3e9",
+  "files": [
+    {
+      "file": "666.webp",
+      "sha256": "2bb8a16e009a0aaa19f62aa9875e7cfceea075e6a8d34497460ed73ad741bac7",
+      "bytes": 6136,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/666.webp"
+    },
+    {
+      "file": "Emm.webp",
+      "sha256": "6d0b8776acf99482b58037330e5c2773f9b35f32471abf0fa5f4d3ff55e642fc",
+      "bytes": 4640,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/Emm.webp"
+    },
+    {
+      "file": "OK.webp",
+      "sha256": "604338ffbc667a323fb89eb785f021858ed1d2e6bf1f1df2cd57a2f23e7822fd",
+      "bytes": 5868,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/OK.webp"
+    },
+    {
+      "file": "亲亲.webp",
+      "sha256": "5c754820fd31a8e9b1d4bf22018a48f9c14928bf8d071fa68c7c94600c958587",
+      "bytes": 4802,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/亲亲.webp"
+    },
+    {
+      "file": "便便.webp",
+      "sha256": "ae718a960918810c8d3bf3c7c710937150e72983e57e375ea0a1649a8f493558",
+      "bytes": 4864,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/便便.webp"
+    },
+    {
+      "file": "偷笑.webp",
+      "sha256": "064ab27d563cd54d7f8d53c1a7c638ffe0aabeba348fc71b1d0312ab653be8ba",
+      "bytes": 5350,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/偷笑.webp"
+    },
+    {
+      "file": "傲慢.webp",
+      "sha256": "c1fc1c3116326228ad544fc3c5bab0a016b8a657c817d3969893f27c83ac7eb9",
+      "bytes": 5040,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/傲慢.webp"
+    },
+    {
+      "file": "再见.webp",
+      "sha256": "638cd67fc9b20e232b62d8637b53dec5c3d314bff18d35e904f1f588fe4a6b33",
+      "bytes": 4758,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/再见.webp"
+    },
+    {
+      "file": "凋谢.webp",
+      "sha256": "711730f9f3c15dd2d4c1f5a5f8ebd3cffa4376af238f6ba3cb1074f3bd6332aa",
+      "bytes": 4174,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/凋谢.webp"
+    },
+    {
+      "file": "加油.webp",
+      "sha256": "148b2cd0b1047355b7414d698c2d1d733dae9edf09ce232848c6c3750c28d4e4",
+      "bytes": 5768,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/加油.webp"
+    },
+    {
+      "file": "加油加油.webp",
+      "sha256": "976aac6102182f4a3a70f78f1dd25efc50e2f81826f5e937d577d1eb8a81e505",
+      "bytes": 2604,
+      "width": 64,
+      "height": 64,
+      "source": "Existing 加油加油.png, lossless WebP conversion"
+    },
+    {
+      "file": "勾引.webp",
+      "sha256": "90d1a819fec6b847dbd33c2b0c6d16053cc9581c32f933b80b4f1d519e061fa6",
+      "bytes": 4446,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/勾引.webp"
+    },
+    {
+      "file": "发呆.webp",
+      "sha256": "b9f03721c881f48548b6c48ecd99f5e26e7325c2a0bd6e0c08e8491d70baa649",
+      "bytes": 5188,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/发呆.webp"
+    },
+    {
+      "file": "发怒.webp",
+      "sha256": "427dee6f6baa0be7d7e50b8353c3329a2baea25ddd4b2672b7d54ed1092ddb3c",
+      "bytes": 4666,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/发怒.webp"
+    },
+    {
+      "file": "发抖.webp",
+      "sha256": "d432c5b9560b34e7322b562ea80da0da73b0a9ebf7d8ff62d1dde8e7f1177dbb",
+      "bytes": 3958,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/发抖.webp"
+    },
+    {
+      "file": "可怜.webp",
+      "sha256": "65bbf7de81378d07194b61ef6fd6e93ac4a85b48b04685b80260c1b1aa6cf2b4",
+      "bytes": 5682,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/可怜.webp"
+    },
+    {
+      "file": "右哼哼.webp",
+      "sha256": "c876f90bf541c36c8d0d1936fc3efe581cefe54928b5b1bb5334c07160c14cc5",
+      "bytes": 4402,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/右哼哼.webp"
+    },
+    {
+      "file": "叹气.webp",
+      "sha256": "cc37984c456be175c0308a064b77cc83a15a3199c34790b0f144ea9a8d23058a",
+      "bytes": 5122,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/叹气.webp"
+    },
+    {
+      "file": "吃瓜.webp",
+      "sha256": "1ce0ea4bbef6441026d61b5c354aa5acc3f8df7e98a435fcfab8db1471e9338c",
+      "bytes": 5396,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/吃瓜.webp"
+    },
+    {
+      "file": "合十.webp",
+      "sha256": "bdddfb0fc749d44476ccc09a0dabaa3cb06ceda9148a8fae47a7b0fcb39caf00",
+      "bytes": 3622,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/合十.webp"
+    },
+    {
+      "file": "吐.webp",
+      "sha256": "a7b35211d3353549bff94a3200d396e03ed94f373c203d342aa63be85b8fdbeb",
+      "bytes": 5156,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/吐.webp"
+    },
+    {
+      "file": "呲牙.webp",
+      "sha256": "735fe93a6de6fc512fb046a15be59ae9ab17022075ee3921fb0b3498e8ac9ab9",
+      "bytes": 5476,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/呲牙.webp"
+    },
+    {
+      "file": "咒骂.webp",
+      "sha256": "fd9068eddd11f20867b6ba703cfefc523cb1c23670ffe956e84ae2915e5b526f",
+      "bytes": 5754,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/咒骂.webp"
+    },
+    {
+      "file": "咖啡.webp",
+      "sha256": "f9753fde0249fc673e1568a1b5066bfaf4ad8f4dba091ab8e9a9be0e06d9bae0",
+      "bytes": 4830,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/咖啡.webp"
+    },
+    {
+      "file": "哇.webp",
+      "sha256": "8b8da16690148ec6bd0a1070d749838e6a1d8961e4079e319a215a0220392607",
+      "bytes": 5502,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/哇.webp"
+    },
+    {
+      "file": "啤酒.webp",
+      "sha256": "3c4e74d064471876cb9dc3123fdfd08ed23aed88f6877754dc67e26ee4cf0080",
+      "bytes": 5200,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/啤酒.webp"
+    },
+    {
+      "file": "嘘.webp",
+      "sha256": "7c2c31274c2572a9084c2f60ca273a5707f72647653ebd7af6eef1efcf27ede4",
+      "bytes": 4868,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/嘘.webp"
+    },
+    {
+      "file": "嘴唇.webp",
+      "sha256": "c4fe91bf1ed7701443bd07675a467a3b412779b89dc5ad438078af19d3c120cc",
+      "bytes": 3994,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/嘴唇.webp"
+    },
+    {
+      "file": "嘿哈.webp",
+      "sha256": "38be2f2982080b1eca9a012d16c012ecb8ccd956152aa706b544686e6ca7222b",
+      "bytes": 5680,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/嘿哈.webp"
+    },
+    {
+      "file": "囧.webp",
+      "sha256": "ea068eab79490a414d4ec31f58da530bcbe5aba1eb4bd209cffb205b8e9e572a",
+      "bytes": 4648,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/囧.webp"
+    },
+    {
+      "file": "困.webp",
+      "sha256": "f7d73cc9ecd0ed6c4362a8c303c53c5663a5507ca80840b870e9bb76c2b59e56",
+      "bytes": 4404,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/困.webp"
+    },
+    {
+      "file": "坏笑.webp",
+      "sha256": "21c02fd4539df0bacf288ae62596704607b2d8e9cf207b2a0b8ed52e8cf3498a",
+      "bytes": 4840,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/坏笑.webp"
+    },
+    {
+      "file": "大哭.webp",
+      "sha256": "bbd790b9a529c047f5a6c6dd360337895b7054f89ad8eca25c978f3ba8901ff7",
+      "bytes": 4928,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/大哭.webp"
+    },
+    {
+      "file": "天啊.webp",
+      "sha256": "1b2e783ea19ef6d2964bbdb7957a8c945047ff0638844b4f0a173bc551f44b02",
+      "bytes": 4954,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/天啊.webp"
+    },
+    {
+      "file": "太阳.webp",
+      "sha256": "4288cc70803177a79f1b1493864ab55ffc19f783e56381dd056c3525c14cf7cb",
+      "bytes": 5414,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/太阳.webp"
+    },
+    {
+      "file": "失望.webp",
+      "sha256": "a73e1efe09e2a28b31100f425d5ed997ad3ebf8d5c4d88c9415b219d433cc986",
+      "bytes": 4794,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/失望.webp"
+    },
+    {
+      "file": "奸笑.webp",
+      "sha256": "49c4752ce3aaf8b7727a39067c9078839c3b70af7292988db8c2ff401787624d",
+      "bytes": 5116,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/奸笑.webp"
+    },
+    {
+      "file": "好的.webp",
+      "sha256": "f2becac4ce8988fadef7654e12695d943e6c69acf63061fb4f31594d0b0338a9",
+      "bytes": 5832,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/好的.webp"
+    },
+    {
+      "file": "委屈.webp",
+      "sha256": "3541533a3e7844caf0a8430b693285004ba8549d3a6922a79236b6366e19d6e4",
+      "bytes": 5494,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/委屈.webp"
+    },
+    {
+      "file": "害羞.webp",
+      "sha256": "8bd5c6cc069bd6bce0302c908200eba3f82884d345f6279bdab49c49599d00be",
+      "bytes": 4984,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/害羞.webp"
+    },
+    {
+      "file": "尴尬.webp",
+      "sha256": "f85eeec87b8ea4968d07d37bb2329f31ba1005b7752f0d0935c5da4fb9d9bb85",
+      "bytes": 4448,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/尴尬.webp"
+    },
+    {
+      "file": "庆祝.webp",
+      "sha256": "945284dc7fad85a64bb3bbe36b7654a41368d4c7d3167eb24284a2d8affd6858",
+      "bytes": 4530,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/庆祝.webp"
+    },
+    {
+      "file": "弱.webp",
+      "sha256": "1473373717b95b221f61df64e9aa1c63fb89eddb417120100bfab602812177f5",
+      "bytes": 3300,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/弱.webp"
+    },
+    {
+      "file": "强.webp",
+      "sha256": "c387b927674fe6e8d081bf4f4f52e48265d3699a6cc5cd7c63bbd2458c63f736",
+      "bytes": 3362,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/强.webp"
+    },
+    {
+      "file": "得意.webp",
+      "sha256": "de0ff418688215840e3db1101eeecefe94daffb3546134ca7f365a24791cce3c",
+      "bytes": 4976,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/得意.webp"
+    },
+    {
+      "file": "微笑.webp",
+      "sha256": "db1b56cc14f713fb87f2dc5d798c04a27d4c55d44545080b27d63c4d45c62d1c",
+      "bytes": 4796,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/微笑.webp"
+    },
+    {
+      "file": "心碎.webp",
+      "sha256": "66287a06dc22cc9eb9b9e77afa71f0a8e8c82231db44d96ab9354af2dea11a5e",
+      "bytes": 4302,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/心碎.webp"
+    },
+    {
+      "file": "快哭了.webp",
+      "sha256": "5e37793ec988223c70286cabcebaf26d4e8890d4b3b97464f1c6b0caecace85d",
+      "bytes": 5250,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/快哭了.webp"
+    },
+    {
+      "file": "恐惧.webp",
+      "sha256": "65943f9fef792c9dde0409c098468f5da68ad4aaa2b4a48f531a0563b4b242cf",
+      "bytes": 5094,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/恐惧.webp"
+    },
+    {
+      "file": "悠闲.webp",
+      "sha256": "8e2a730d194b912f06c16d306f8222a183965a76b9608fad73b0c5b46ab50a98",
+      "bytes": 4308,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/悠闲.webp"
+    },
+    {
+      "file": "惊恐.webp",
+      "sha256": "6e21288a0260012d6fac054d2524b15717fe928ec2f2ad90994eeb90a15df0c8",
+      "bytes": 4848,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/惊恐.webp"
+    },
+    {
+      "file": "惊讶.webp",
+      "sha256": "a524de1ea77b1b657aa8f3f9dfa7a050b4bd638c08dfb0f953cf16cca6105614",
+      "bytes": 4830,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/惊讶.webp"
+    },
+    {
+      "file": "愉快.webp",
+      "sha256": "dbb2af01ef7e8d3e3aaf8307ef29e334b8f7a8dfacad4712a116151dcceecefc",
+      "bytes": 4630,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/愉快.webp"
+    },
+    {
+      "file": "憨笑.webp",
+      "sha256": "ce40585f2e0207f5b535f2f6c8c77fe6b9ace043562f87ca3643c6d179dfc774",
+      "bytes": 5374,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/憨笑.webp"
+    },
+    {
+      "file": "打脸.webp",
+      "sha256": "bafec0a4c2a8bf6144b5867d7d7c920a98fd283eeb9ff6de6ca2a1095d299759",
+      "bytes": 5160,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/打脸.webp"
+    },
+    {
+      "file": "抓狂.webp",
+      "sha256": "28e5b7408cb8637e15b0f25096ec314ab5b65132bbed7051eea9d33b12c49a90",
+      "bytes": 5744,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/抓狂.webp"
+    },
+    {
+      "file": "抠鼻.webp",
+      "sha256": "5462c68d992146c113e8a3464f474a8326aebc81b107fb67a42270992cd00a87",
+      "bytes": 4858,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/抠鼻.webp"
+    },
+    {
+      "file": "抱拳.webp",
+      "sha256": "c479390d090c5311a02b0d36c7b67fad0814ae1e776df4f5a1f45793da2a7f8d",
+      "bytes": 4704,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/抱拳.webp"
+    },
+    {
+      "file": "拥抱.webp",
+      "sha256": "0bc070320f31617674b3cc72f30fe3647c202904c19dde37bcbdd9a907594b1f",
+      "bytes": 4274,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/拥抱.webp"
+    },
+    {
+      "file": "拳头.webp",
+      "sha256": "0dede03ce56433d446d1177aa4b9ca8429fadbee2a9e85013b15a3ff9730ca54",
+      "bytes": 5420,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/拳头.webp"
+    },
+    {
+      "file": "捂脸.webp",
+      "sha256": "5c134ceb3e98c7cf33fab59e3a1b21f0eb8a1c037d093dfe798454edaa23191c",
+      "bytes": 5600,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/捂脸.webp"
+    },
+    {
+      "file": "握手.webp",
+      "sha256": "79742bec6841abf401306d26bcf11c6118c85a55eb8e3c9633271e9197930fea",
+      "bytes": 5468,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/握手.webp"
+    },
+    {
+      "file": "撇嘴.webp",
+      "sha256": "978022a75bd885b7fde249a3575551116e55a3466a18d8846d95830af8a5bb0f",
+      "bytes": 4618,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/撇嘴.webp"
+    },
+    {
+      "file": "擦汗.webp",
+      "sha256": "9fabab03123c46a6d04e8630f36bc4673c8517bd5124b9b9420adf111393835f",
+      "bytes": 4866,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/擦汗.webp"
+    },
+    {
+      "file": "敲打.webp",
+      "sha256": "07da8a3c274cb2b489c6254554e039d6e0159b73375efa1fb03995bcfdb294a2",
+      "bytes": 13162,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/敲打.webp"
+    },
+    {
+      "file": "无语.webp",
+      "sha256": "0c0c8a4618b8fadd629c26dcf60832ec427e9434041b7c81cf78cf2f8c0c7ea8",
+      "bytes": 4942,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/无语.webp"
+    },
+    {
+      "file": "旺柴.webp",
+      "sha256": "f4ae2f58c0c51f331d3eeced03d78cf36eec60908a7bb0a9e13dd1e7c08928b5",
+      "bytes": 4872,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/旺柴.webp"
+    },
+    {
+      "file": "晕.webp",
+      "sha256": "2eb8a31ae67b546ba2ca525b7a7c0c2b7359040a24bc3901459af5d11428b588",
+      "bytes": 5550,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/晕.webp"
+    },
+    {
+      "file": "月亮.webp",
+      "sha256": "29b7b689e1595dab9f0a22295d2c172708d5b8fce1f982868782bfe7827bc1cc",
+      "bytes": 4952,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/月亮.webp"
+    },
+    {
+      "file": "机智.webp",
+      "sha256": "b63b956e108f2b21ef00b28acbd9fb1e17d4bb7f40e37d5ee37dca758281bfe5",
+      "bytes": 5404,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/机智.webp"
+    },
+    {
+      "file": "汗.webp",
+      "sha256": "f3ee937469d170a24db23e71a64cec0c63142e8c2899c6058aa2d9bcc7262dc4",
+      "bytes": 4804,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/汗.webp"
+    },
+    {
+      "file": "流泪.webp",
+      "sha256": "51764cd0c93351318967a164b8a89eca5bc376443aac54d48c11cc749824fe6e",
+      "bytes": 4236,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/流泪.webp"
+    },
+    {
+      "file": "炸弹.webp",
+      "sha256": "e91bc4916ab9f00de89e74d2877ef199b61002a8a490251a3809955f564ea3df",
+      "bytes": 4582,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/炸弹.webp"
+    },
+    {
+      "file": "烟花.webp",
+      "sha256": "00d76b0c41ed44adaf3e0878f3e48c0b244da01dbc9c9aae0610f7604e765920",
+      "bytes": 5494,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/烟花.webp"
+    },
+    {
+      "file": "爆竹.webp",
+      "sha256": "a763c7e0e7da6baec5324498b9b6c84310c9b1650f51e6fa47da671943696c3d",
+      "bytes": 3950,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/爆竹.webp"
+    },
+    {
+      "file": "爱心.webp",
+      "sha256": "41f2a193e10bd0fcc07ddedb3af65ff99688d3e0d78de7ab4b87eab1445f2fe3",
+      "bytes": 4630,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/爱心.webp"
+    },
+    {
+      "file": "猪头.webp",
+      "sha256": "90ee00a58600802da505de63fc858d5e1837cb5d6bd35fa86527299b47e6026b",
+      "bytes": 4620,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/猪头.webp"
+    },
+    {
+      "file": "玫瑰.webp",
+      "sha256": "9852091dac58ccf169655aba9120d46a909cd874431fe5a76916608ff0b8bb63",
+      "bytes": 3220,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/玫瑰.webp"
+    },
+    {
+      "file": "生病.webp",
+      "sha256": "564172e76c79b5078518557696da14dc945472e1a0b5195f755abbf47d538d86",
+      "bytes": 5086,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/生病.webp"
+    },
+    {
+      "file": "疑问.webp",
+      "sha256": "d82cf3fcb0fbd816b81dd72aaec108bb713a9328ae2e9b3ca6bf726076f106d9",
+      "bytes": 5446,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/疑问.webp"
+    },
+    {
+      "file": "發.webp",
+      "sha256": "09fa822ad99c3804a0d9809913ed781036f29ce719748a252736a5e73587fc59",
+      "bytes": 4742,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/發.webp"
+    },
+    {
+      "file": "白眼.webp",
+      "sha256": "faaaf23e41c382fde56643acba72dc17ee9dd36b53aa78a0a1b2719074e4c298",
+      "bytes": 5096,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/白眼.webp"
+    },
+    {
+      "file": "皱眉.webp",
+      "sha256": "ac5a7cdafbdd96f76ea2ca0e9f9c667c69edeaa412da039a4e9cca80468b0224",
+      "bytes": 5056,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/皱眉.webp"
+    },
+    {
+      "file": "睡.webp",
+      "sha256": "332760e1a04e598a046795cb3a18d07d97c1f6ee5611e1c9293c215d9719a5e4",
+      "bytes": 4716,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/睡.webp"
+    },
+    {
+      "file": "破涕为笑.webp",
+      "sha256": "cf0cb0f5dee185a5997d3cb3651ee3df3eb3eeedc3ece0b5360821521ac72799",
+      "bytes": 5304,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/破涕为笑.webp"
+    },
+    {
+      "file": "礼物.webp",
+      "sha256": "7a39b1c832b9175fec94cb3bffac4a49bfb1af6150f1053d1e50a77688d07353",
+      "bytes": 5248,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/礼物.webp"
+    },
+    {
+      "file": "社会社会.webp",
+      "sha256": "5a211dc0c40cdb790a8bc86531aada34c7c01fae25082118eb0cd23e3d7ae0de",
+      "bytes": 5788,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/社会社会.webp"
+    },
+    {
+      "file": "福.webp",
+      "sha256": "b004a75455472c99e973826c2ea4c4d0a0ce20820c43a206b395e6caf21cf1c6",
+      "bytes": 3994,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/福.webp"
+    },
+    {
+      "file": "笑脸.webp",
+      "sha256": "a5e1f4f3abd6810526945319ae862d61854715d7ca175b02f282c58723184d57",
+      "bytes": 5076,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/笑脸.webp"
+    },
+    {
+      "file": "红包.webp",
+      "sha256": "237ace1e7c066e6c2e14208b13b52bf2e5e3fa474e609a8ae2545d311d2f389e",
+      "bytes": 2352,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/红包.webp"
+    },
+    {
+      "file": "翻白眼.webp",
+      "sha256": "e870f54fe3d1eeb048dc4f3064e0b73c6c63389c2740ac5baada1da2a412dd3c",
+      "bytes": 4402,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/翻白眼.webp"
+    },
+    {
+      "file": "耶.webp",
+      "sha256": "1d09b6b43d488776d515a534cca7df3d769ac89f194aab8944b70dff983e4828",
+      "bytes": 5916,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/耶.webp"
+    },
+    {
+      "file": "胜利.webp",
+      "sha256": "9bac8c72eeceec8b627a3b095826f2a2f2febf26c34e83317cfb25b31aa60c55",
+      "bytes": 5440,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/胜利.webp"
+    },
+    {
+      "file": "脸红.webp",
+      "sha256": "9c01d7074c17e112a8a4ec148e5f9905858f90bbd58213addc3cfab3046f53e1",
+      "bytes": 4940,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/脸红.webp"
+    },
+    {
+      "file": "色.webp",
+      "sha256": "babf3601b6c9d61efe5be100a903d852eebd1a2dff6db1328fd661e077b98b14",
+      "bytes": 4904,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/色.webp"
+    },
+    {
+      "file": "苦涩.webp",
+      "sha256": "30a17932889a8a7a2b1b1fc63eeacb2199bdad6328775710b3e4bc8e836d1d6f",
+      "bytes": 4606,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/苦涩.webp"
+    },
+    {
+      "file": "菜刀.webp",
+      "sha256": "48b392cfa4eb95a85268d01390d7e1594f02ae7f057e6405f28399e2cab892d1",
+      "bytes": 2368,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/菜刀.webp"
+    },
+    {
+      "file": "蛋糕.webp",
+      "sha256": "08225398c5fa3d06d236af916471f69a7d8e7e7f37602e8d8d961983a883d299",
+      "bytes": 5390,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/蛋糕.webp"
+    },
+    {
+      "file": "衰.webp",
+      "sha256": "d88e2283c2584c7e3f844e1420958219e3b6a4d37de173c64b2b2b71b559f721",
+      "bytes": 4682,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/衰.webp"
+    },
+    {
+      "file": "裂开.webp",
+      "sha256": "cb81108cfbe2969f1722a46a0d19a48f9a3a8362cbc7ce6edbee0f8889085a03",
+      "bytes": 5642,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/裂开.webp"
+    },
+    {
+      "file": "让我看看.webp",
+      "sha256": "6205d93cece07123b038ad4c0035c16e725d6de16586e449d5e14fac19838276",
+      "bytes": 5792,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/让我看看.webp"
+    },
+    {
+      "file": "调皮.webp",
+      "sha256": "84f743e597592162fac78e259ef43c47f822ea86ced915ae77269a9176c9bbc0",
+      "bytes": 4460,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/调皮.webp"
+    },
+    {
+      "file": "跳跳.webp",
+      "sha256": "28b041d68b99c0f316ef3be5206d03454f1ae21d05df08cc89e8ff4f4c61cdec",
+      "bytes": 3722,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/跳跳.webp"
+    },
+    {
+      "file": "转圈.webp",
+      "sha256": "5788b763f4c36b8900f78c3808d523f7af26456a6ae4e487ba19b3c108ca034a",
+      "bytes": 3564,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/转圈.webp"
+    },
+    {
+      "file": "鄙视.webp",
+      "sha256": "ef2ac22ce7279f30d104c2090e50f035624971e59a5726b8b7bbbd601f22bcfa",
+      "bytes": 5644,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/鄙视.webp"
+    },
+    {
+      "file": "闭嘴.webp",
+      "sha256": "cbdf2ed1970d9a4673fd24087839d41902185a4a5be5b97b301ff12fb629b385",
+      "bytes": 5244,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/闭嘴.webp"
+    },
+    {
+      "file": "阴险.webp",
+      "sha256": "c9acd61ae59161fc0177c6f98fafda1a03adc1b675d43a37ec87cf98bf6d784f",
+      "bytes": 5086,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/阴险.webp"
+    },
+    {
+      "file": "难过.webp",
+      "sha256": "3c32f76f235d4dcd97a5354f4df6bb0929d515013bfe39c647f2dfe429304996",
+      "bytes": 4448,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/难过.webp"
+    },
+    {
+      "file": "骷髅.webp",
+      "sha256": "bb2b3e7b986a26725de1df8e6841809372a633234734c5e8e2f1c17552350312",
+      "bytes": 4606,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/骷髅.webp"
+    },
+    {
+      "file": "鼓掌.webp",
+      "sha256": "45ea67972b45cb8b70c9c629f432199ba276a1598e7cfe24e7803f529a370a2d",
+      "bytes": 5650,
+      "width": 128,
+      "height": 128,
+      "source": "Nimbly8836/wechat_rails/public/emoji/鼓掌.webp"
+    }
+  ]
+}
